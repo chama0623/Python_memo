@@ -1,6 +1,4 @@
-sample.csv
-submission.csv
-test.csv
+/sample/*.csv
 titanic_input/
 .ipynb_checkpoints/
 時系列データ分析/
